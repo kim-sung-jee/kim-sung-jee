@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋Dㅏ아 귀찮아
 
 <!--
 **kim-sung-jee/kim-sung-jee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
