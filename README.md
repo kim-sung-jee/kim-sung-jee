@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Spring Boot&logoColor=green"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
 
