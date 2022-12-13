@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsvk9921)](https://solved.ac/lsvk9921)
-<!-- <img src="https://img.shields.io/badge/Doker-2496ED?style=flat-square&logo=Doker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
- -->
+
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/lsvk9921.svg)](https://codeforces.com/profile/lsvk9921)
+
