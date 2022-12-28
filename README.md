@@ -1,6 +1,5 @@
 ### Hi there 👋
-박치기공룡입니다 
-// https://youtu.be/bhxt63e-os4
+박치기공룡입니다
 <!--
 **kim-sung-jee/kim-sung-jee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
