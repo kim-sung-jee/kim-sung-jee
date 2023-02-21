@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
 
 
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsvk9921)](https://solved.ac/lsvk9921) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsvk9921)](https://solved.ac/lsvk9921) 저는 물티어입니다
 <!-- [![Codeforces](https://badges.joonhyung.xyz/codeforces/lsvk9921.svg)](https://codeforces.com/profile/lsvk9921) -->
 
