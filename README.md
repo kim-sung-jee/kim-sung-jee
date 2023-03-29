@@ -1,5 +1,4 @@
 ### Hi there 👋
-부딪히며 배우는 것을 좋아합니다
 <!--
 **kim-sung-jee/kim-sung-jee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +26,6 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsvk9921)](https://solved.ac/lsvk9921) 저는 물티어입니다
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsvk9921)](https://solved.ac/lsvk9921)
 <!-- [![Codeforces](https://badges.joonhyung.xyz/codeforces/lsvk9921.svg)](https://codeforces.com/profile/lsvk9921) -->
 
