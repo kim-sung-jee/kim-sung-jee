@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://velog.io/@lsvk9921" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <<<
 
-<a href="https://www.linkedin.com/in/%EC%84%B1%EC%A7%80-%EA%B9%80-9097aa252/" target="_blank"><img src= "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113"/></a> <<<
+<!-- <a href="https://www.linkedin.com/in/%EC%84%B1%EC%A7%80-%EA%B9%80-9097aa252/" target="_blank"><img src= "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113"/></a> <<< -->
 
 
 
@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
 
 
