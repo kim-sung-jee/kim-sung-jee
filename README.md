@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat0square&logo=nestjs&logoColor=white"></a>
 
 
+🌱 I’m interested in ...
 
-
+ Distributed System
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsvk9921)](https://solved.ac/lsvk9921)
 <!-- [![Codeforces](https://badges.joonhyung.xyz/codeforces/lsvk9921.svg)](https://codeforces.com/profile/lsvk9921) -->
