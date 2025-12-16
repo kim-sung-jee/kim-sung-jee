@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 i'm software engineer
 
+<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+
 🌱 I’m interested in ...
 
  Distributed System
